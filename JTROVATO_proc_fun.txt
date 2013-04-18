@@ -1,0 +1,6 @@
+linux kernel: /proc/version 3.2.0-40-generic-pae
+ext3 support: /proc/filesystems yes
+size of swap space: /proc/swaps 522236 bytes
+ssh initial command: /proc/5188/cmdline ssheniac
+firefox initial command:/proc/5254/cmdline usr/lib/firefox/firefox
+processor speed: /proc/cpuinfo 2234.569MHz 
