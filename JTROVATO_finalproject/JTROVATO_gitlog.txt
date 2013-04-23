@@ -1,0 +1,131 @@
+commit 09a3f97bd3e197a09e5d630dc39525c871d3913c
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Mon Apr 22 20:39:48 2013 -0400
+
+    remove old output
+
+commit f0c1002eb952d81cd56c30dcb02574952bf9b0ee
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Mon Apr 22 20:37:59 2013 -0400
+
+    changed name of output file
+
+commit 0bba807b212438e4cef47376bfcd8b5e1f596f02
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 04:40:22 2013 -0400
+
+    ading my output file
+
+commit 4b19131419976e75ea79a0ad167a466c6a6155c4
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 04:32:06 2013 -0400
+
+    removing unessary files
+
+commit 5e979404aca0e45258a4bf5d911d0adbb343bd24
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 04:25:54 2013 -0400
+
+    proc info added
+
+commit 7ef1a82a0656b96bc443f052c2e8b99c00f5cf88
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 03:46:08 2013 -0400
+
+    edits to server.html
+
+commit d11ba80e8a5a925bf8c20d189cfde6eaaf218b68
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 03:41:38 2013 -0400
+
+    edits to server.html
+
+commit 998a8be5d4f50ef6415df3f645ab3753b0e32397
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:37:12 2013 -0400
+
+    testing hook
+
+commit a73d8a710c81e84bb15c7fcbd0fa122dd7915ac5
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:36:16 2013 -0400
+
+    testing hook
+
+commit 0345215be4f27a34bb4688455bfa5922ed920c62
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:35:44 2013 -0400
+
+    testing hook
+
+commit 9e27c5da22b730d30d2f200e044185334b59b898
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:35:14 2013 -0400
+
+    testing hook
+
+commit 3e5383806d37c3c6739e177bf7f20bb1e1979185
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:30:11 2013 -0400
+
+    changed server.html
+
+commit 157942964ae057299db711b76208c43f43d9cab9
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:27:07 2013 -0400
+
+    testing hook
+
+commit 932868612fb341f731216c49b328a4f709b939fe
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:22:59 2013 -0400
+
+    testing hook
+
+commit 5738e1d896143c9cc0d791225021d2f1ebc1416f
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:11:47 2013 -0400
+
+    testing hook
+
+commit 7c56ae1e0c7b8fca4fcbe8fb816ef7be4c99f89f
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Thu Apr 18 01:10:25 2013 -0400
+
+    testing hook
+
+commit fb2e26576d673f5b78870f22eb5ee6f4b55ac047
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Tue Apr 16 22:15:05 2013 -0400
+
+    adding server.html
+
+commit 6a8d3e334abc49135a89275c677dc5ab8794d225
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Tue Apr 16 21:37:28 2013 -0400
+
+    removed photos
+
+commit 6dbe737ef23696fc636295be2f9770a91b34f3da
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Tue Apr 16 14:36:41 2013 -0400
+
+    test git hook
+
+commit 1def9afc4a264a1fac3ac1fc1e90bab418f02167
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Tue Apr 16 14:26:46 2013 -0400
+
+    test git hook
+
+commit 48e749db40db7191a237b9c5fb9bd87dc9caddae
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Tue Apr 16 14:25:41 2013 -0400
+
+    test git hook
+
+commit b15bf57ca07ab6c7d751458a8a39033c29e1c3d1
+Author: jtrovato <josephjtrovato@gmail.com>
+Date:   Tue Apr 16 11:48:16 2013 -0400
+
+    uploading all of the files

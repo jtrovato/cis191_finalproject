@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo 'updating the web server'
+
+#pull from the remote to the local repo
+cd ~/serving_stuff
+unset GIT_DIR
+git pull origin master
+
+#with updated files in local repo, serve them!
+#sudo python -m SimpleHTTPServer 80
