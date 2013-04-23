@@ -1,0 +1,10 @@
+README for CIS191 Final Project
+author: Joe Trovato
+date: April 22 2013
+
+I am hosting a few more filesthan required on my ec2 server. I am using the default directory listing page provided, because I have no index.html. Just to clarify, the output of my JTROVATO.o file can be found in jtrovato_out.txt. the JTROVATO_proc_fun.txt is in there as specified in the write up. 
+
+Helpful Links:
+
+my amazon ec2: ec2-54-244-200-136.us-west-2.compute.amazonaws.com
+my github: https://github.com/jtrovato 
